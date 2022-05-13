@@ -1,0 +1,24 @@
+.color{
+    background: yellow;
+    border: 4px solid black;
+}
+
+.c{
+    color: red;
+}
+
+.redbull{
+    color: blue;
+}
+
+.pitbull{
+    color: green;
+}
+
+.puma{
+    color: lightskyblue;
+}
+
+.price{
+    color: blue;
+}
